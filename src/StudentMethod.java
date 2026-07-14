@@ -3,6 +3,13 @@ public class StudentMethod {
         String name;
         String course;
 
+        //using constructor
+//    StudentMethod(String name, String course){
+//        this.name = name;
+//        this.course = course;
+//
+//    }
+
         // step2:  1. ADD THE METHOD HERE (Inside the class, outside of main)
         public void displayInfo() {
             // This method automatically knows which object called it,
@@ -18,11 +25,17 @@ public class StudentMethod {
             students1.course = "Software Engineering";
 
             students2.name = "Emma";
-            students2.course = "Civil Engineering";
+           students2.course = "Civil Engineering";
 
             //Step 2:  2. CALL THE METHOD HERE using your objects
             students1.displayInfo();
-            students2.displayInfo();
+          students2.displayInfo();
+
+
+// constructors
+//            StudentMethod students1 = new StudentMethod("Charlotte", "Engineering");
+//            students1.displayInfo();
+
 
         }
     }

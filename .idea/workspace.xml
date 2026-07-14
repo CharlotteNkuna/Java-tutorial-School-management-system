@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a801ac-78e7-435a-bf52-fa23a9288266" name="Changes" comment="" />
+    <list default="true" id="96a801ac-78e7-435a-bf52-fa23a9288266" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DefaultConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodOverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentMethod.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,67 +26,82 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "CharlotteNkuna"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/CharlotteNkuna/Java-tutorial-School-management-system.git",
+    "accountId": "b20d04e4-3698-4d27-a53d-72d32e30dc8f"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000002412812858" />
-      <entry key="S2" value="1.0331090186834961" />
-      <entry key="S5" value="1.4544410787587856" />
-      <entry key="S10" value="2.290375966537084" />
-      <entry key="S30" value="4.724607763773741" />
-      <entry key="S60" value="7.077522204515169" />
-      <entry key="M2" value="9.545373164295537" />
-      <entry key="M5" value="13.304453368554782" />
-      <entry key="M10" value="16.78440661751878" />
-      <entry key="M15" value="19.439048210827902" />
-      <entry key="M30" value="27.181408968864538" />
-      <entry key="H1" value="40.07572868991102" />
-      <entry key="H2" value="53.98533016782701" />
-      <entry key="H4" value="64.62256873208452" />
-      <entry key="D1" value="76.28836823696403" />
-      <entry key="W1" value="78.60404545086021" />
+      <entry key="MS100" value="1.0000000000000815" />
+      <entry key="MS500" value="1.00678435823746" />
+      <entry key="S2" value="1.8295772949679496" />
+      <entry key="S5" value="3.6549677857619276" />
+      <entry key="S10" value="5.548449302975016" />
+      <entry key="S30" value="8.042714932847723" />
+      <entry key="S60" value="8.954560235091598" />
+      <entry key="M2" value="9.758547067435373" />
+      <entry key="M5" value="12.276913045426237" />
+      <entry key="M10" value="15.07724199534959" />
+      <entry key="M15" value="16.57479123220332" />
+      <entry key="M30" value="18.548357661694585" />
+      <entry key="H1" value="20.53869828694852" />
+      <entry key="H2" value="24.33900347951476" />
+      <entry key="H4" value="32.67774684696542" />
+      <entry key="D1" value="113.27509686736344" />
+      <entry key="W1" value="167.86418397256517" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="2.4473306701219206E-11" />
-      <entry key="MS500" value="0.007546377569725354" />
-      <entry key="S2" value="0.29473746514341914" />
-      <entry key="S5" value="0.6164708490259385" />
-      <entry key="S10" value="0.8486190797491839" />
-      <entry key="S30" value="1.7869537159022335" />
-      <entry key="S60" value="2.94169540483333" />
-      <entry key="M2" value="4.313289380311983" />
-      <entry key="M5" value="7.22790468827319" />
-      <entry key="M10" value="10.489899041570736" />
-      <entry key="M15" value="13.212976395608848" />
-      <entry key="M30" value="20.917777984317546" />
-      <entry key="H1" value="32.199302571881546" />
-      <entry key="H2" value="43.304252693199906" />
-      <entry key="H4" value="51.401071278337874" />
-      <entry key="D1" value="60.02536751576783" />
-      <entry key="W1" value="61.71228809020406" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.7339998584189107E-82" />
+      <entry key="S5" value="1.9752388688288836E-33" />
+      <entry key="S10" value="4.444365950219366E-17" />
+      <entry key="S30" value="3.5483733839733593E-6" />
+      <entry key="S60" value="0.0020553679946518884" />
+      <entry key="M2" value="0.07269269774621412" />
+      <entry key="M5" value="0.9243734693730918" />
+      <entry key="M10" value="2.3214792451638755" />
+      <entry key="M15" value="3.1767834471396963" />
+      <entry key="M30" value="4.38425221938816" />
+      <entry key="H1" value="5.5340708908878415" />
+      <entry key="H2" value="7.395173032939787" />
+      <entry key="H4" value="11.179627668609747" />
+      <entry key="D1" value="48.97365507813493" />
+      <entry key="W1" value="75.14958035813144" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.9969534266789523E-7" />
-      <entry key="MS500" value="0.04989071182909457" />
-      <entry key="S2" value="0.6240335471334728" />
-      <entry key="S5" value="1.5642985434091556" />
-      <entry key="S10" value="2.7718753745825695" />
-      <entry key="S30" value="6.2952371153862" />
-      <entry key="S60" value="9.863454833999347" />
-      <entry key="M2" value="13.753369532814927" />
-      <entry key="M5" value="20.4683749271432" />
-      <entry key="M10" value="27.22910210814015" />
-      <entry key="M15" value="32.61387982365134" />
-      <entry key="M30" value="48.06816584624599" />
-      <entry key="H1" value="72.250065984595" />
-      <entry key="H2" value="97.27215124938152" />
-      <entry key="H4" value="116.01305470222155" />
-      <entry key="D1" value="136.31163188929372" />
-      <entry key="W1" value="140.3160233834855" />
+      <entry key="MS100" value="1.9018621035731296E-9" />
+      <entry key="MS500" value="0.024751432654097818" />
+      <entry key="S2" value="1.1932338223051362" />
+      <entry key="S5" value="3.315442869435995" />
+      <entry key="S10" value="5.356176750691631" />
+      <entry key="S30" value="7.971684766004659" />
+      <entry key="S60" value="8.919890513627701" />
+      <entry key="M2" value="9.809221220582486" />
+      <entry key="M5" value="13.174714861854119" />
+      <entry key="M10" value="17.37104411682972" />
+      <entry key="M15" value="19.727320116484066" />
+      <entry key="M30" value="22.91645221411815" />
+      <entry key="H1" value="26.06303843176499" />
+      <entry key="H2" value="31.728254257106254" />
+      <entry key="H4" value="43.85351538388244" />
+      <entry key="D1" value="162.2467824228915" />
+      <entry key="W1" value="243.01335249548518" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -95,6 +116,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Learners.executor": "Run",
+    "Application.MethodOverloading.executor": "Run",
     "Application.MethodReturn.executor": "Run",
     "Application.Parameters.executor": "Run",
     "Application.StudentMethod.executor": "Run",
@@ -102,9 +124,12 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -132,7 +157,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1783598615048</updated>
-      <workItem from="1783598616178" duration="7078000" />
+      <workItem from="1783598616178" duration="12976000" />
     </task>
     <servers />
   </component>
